@@ -56,10 +56,6 @@ public class CarApp {
         printout(car02.rate());
         printout(car01.stop());
         printout(car02.stop());
-
-
-
-
     }
 
     public static void printout(String output){
